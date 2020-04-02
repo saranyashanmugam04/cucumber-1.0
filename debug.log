@@ -1,0 +1,4 @@
+[0331/095727.687:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SARANY~1.SHA\AppData\Local\Temp\scoped_dir26216_366818734\Crashpad: The system cannot find the file specified. (0x2)
+[0331/100444.199:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SARANY~1.SHA\AppData\Local\Temp\scoped_dir15976_367040042\Crashpad: The system cannot find the file specified. (0x2)
+[0331/103839.648:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SARANY~1.SHA\AppData\Local\Temp\scoped_dir18728_1886385854\Crashpad: The system cannot find the file specified. (0x2)
+[0401/095802.467:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\SARANY~1.SHA\AppData\Local\Temp\scoped_dir24288_148122707\Crashpad: The system cannot find the file specified. (0x2)
